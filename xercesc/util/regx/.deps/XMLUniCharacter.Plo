@@ -1,0 +1,120 @@
+xercesc/util/regx/XMLUniCharacter.lo: \
+ xercesc/util/regx/XMLUniCharacter.cpp /usr/include/stdc-predef.h \
+ ../config.h xercesc/util/regx/XMLUniCharacter.hpp \
+ xercesc/util/XercesDefs.hpp xercesc/util/Xerces_autoconf_config.hpp \
+ /usr/include/inttypes.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/stdint.h \
+ /usr/include/bits/wchar.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h \
+ /home/resse/android-toolchain/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ xercesc/util/XercesVersion.hpp \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/uchar.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/utypes.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/umachine.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/ptypes.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/platform.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/uconfig.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/uvernum.h \
+ /home/resse/android-toolchain/sysroot/usr/include/android/api-level.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/urename.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/uversion.h \
+ /home/resse/android-toolchain/lib/gcc/arm-linux-androideabi/4.8/include/float.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/utf.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/utf8.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/utf16.h \
+ /home/resse/android-toolchain/sysroot/usr/include/unicode/utf_old.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+xercesc/util/regx/XMLUniCharacter.hpp:
+
+xercesc/util/XercesDefs.hpp:
+
+xercesc/util/Xerces_autoconf_config.hpp:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/home/resse/android-toolchain/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+xercesc/util/XercesVersion.hpp:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/uchar.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/utypes.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/umachine.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/ptypes.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/platform.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/uconfig.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/uvernum.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/android/api-level.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/urename.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/uversion.h:
+
+/home/resse/android-toolchain/lib/gcc/arm-linux-androideabi/4.8/include/float.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/utf.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/utf8.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/utf16.h:
+
+/home/resse/android-toolchain/sysroot/usr/include/unicode/utf_old.h:

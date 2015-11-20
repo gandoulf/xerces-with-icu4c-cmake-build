@@ -1,0 +1,1 @@
+/home/resse/Android/android-lib/xerces-c-3.1.2/src/build/CMakeFiles/xerces-c-3.1.dir
